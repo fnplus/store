@@ -1,6 +1,7 @@
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffnplus%2Fshop.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffnplus%2Fshop?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffnplus%2Fshop.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffnplus%2Fshop?ref=badge_shield)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/54612c81-d9c3-4df0-839f-2c3fea12f411/deploy-status)](https://app.netlify.com/sites/merch-shop/deploys)
 
-> Buy your FnPlus Club merch here
+## Buy your FnPlus Club merch here
 
 ### Setup
 
@@ -12,7 +13,7 @@ The stack: Gatsby, React
 
 - [Yarn](https://yarnpkg.com/en/docs/install)
 
-- Gatsby CLI (`yarn global add gatsby-cli`)
+- Gatsby CLI (`npm install -g gatsby-cli`)
 1. Clone the repository
 
 ```
@@ -28,18 +29,15 @@ cd shop
 3. Install dependencies
 
 ```
-yarn
+npm install
 ```
 
 4. Run it!
 
 ```
-yarn dev
+gatsby develop
 ```
 
 ### License
 
 This project is licensed under the MIT license. Please see [`LICENSE.md`](LICENSE.md) for the full text.
-
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffnplus%2Fshop.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffnplus%2Fshop?ref=badge_large)
