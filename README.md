@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffnplus%2Fshop.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffnplus%2Fshop?ref=badge_shield)
+
 > Buy your FnPlus Club merch here
 
 ### Setup
@@ -38,3 +40,6 @@ yarn dev
 ### License
 
 This project is licensed under the MIT license. Please see [`LICENSE.md`](LICENSE.md) for the full text.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffnplus%2Fshop.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffnplus%2Fshop?ref=badge_large)
